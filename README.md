@@ -1,4 +1,4 @@
-# Dual-Reconstruction Momentum Contrast with Cross-Modal Attention for Unsupervised Robust Pre-trained Multi-modal Emotion Recognition
+# Dual-Reconstruction Momentum Contrast for Unsupervised Pre-trained Multi-modal Emotion Recognition
 
 ## Database Process
 
