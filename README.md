@@ -1,4 +1,4 @@
-# Dual-Reconstruction Momentum Contrast for Unsupervised Pre-trained Multi-modal Emotion Recognition
+# MuEmoVec: Learning Generalised Multi-modal Emotion Representation by Momentum Contrast and Multi-task Reconstruction
 
 ## Database Process
 
